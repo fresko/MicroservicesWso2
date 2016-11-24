@@ -1,0 +1,6 @@
+com\jcph\ms\wso2\model\Patterns.class
+com\jcph\ms\wso2\model\ErrorPatterns.class
+com\jcph\ms\wso2\main\Application.class
+com\jcph\ms\wso2\model\Pattern.class
+com\jcph\ms\wso2\endpoint\ApplicationConfig.class
+com\jcph\ms\wso2\endpoint\PatternsSOA.class
